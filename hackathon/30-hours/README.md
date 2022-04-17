@@ -30,3 +30,5 @@ The limitation depends on the total number of teams. For example, there are 20 t
 - Open-sourced SDK
 - Anchor Book
 - Solana Cook Book
+
+###### tags: `hackathon`
