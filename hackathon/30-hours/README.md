@@ -4,6 +4,13 @@ We are hosting an overnight, IRL, Hack competition in Taipei, Taiwan. Bring your
 
 We will be working with protocols to present EXTRA PRIZES for teams or individuals that build the best integrations, front-end features, bots, or bug-fixes in person. Challenges will not be made public, only teams that attend on April 23rd will be able to compete for prizes.
 
+## Workflow
+
+- Get your team
+- Choose one challenge
+- Register your team and the challenge your team is working on
+- Hack
+
 ## FAQ
 
 ### I am a challenger, how can I get a team?
@@ -23,12 +30,5 @@ Each team can have 4 members maximally (the size of 2 tables)
 Yes, Epochs' hackthon working group will collect your desired challenge (one of Crema/Orca/Serum/Raydium) when you register for your team. However, each challenge has limited attached teams. If the number of the team that registers for a certain challenge exceeds its limitation, then the working group has to randomly re-assign some of the teams to register other challenges.
 
 The limitation depends on the total number of teams. For example, there are 20 teams joining the 30-Hours challenge. So each the challenge will have the limitation of 5 teams (20 teams / 4 challenges).
-
-### How to get support?
-
-- SolMeet notes
-- Open-sourced SDK
-- Anchor Book
-- Solana Cook Book
 
 ###### tags: `hackathon`
