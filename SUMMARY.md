@@ -10,5 +10,6 @@
   - [Raydium](hackathon/30-hours/raydium.md)
   - [Serum](hackathon/30-hours/serum.md)
 - [30-Days Project](hackathon/30-days/README.md)
+- [Resources](hackathon/resources.md)
 
 ###### tags: `gitbook`
